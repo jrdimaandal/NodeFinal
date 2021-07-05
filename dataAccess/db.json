@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": "4ae03ef4-981a-4ae5-8437-fb6f467516a6",
+      "username": "jaxt",
+      "emailAddress": "JaxT@soa.com",
+      "firstName": "Jackson",
+      "lastName": "Teller"
+    },
+    {
+      "id": "bf0582f4-dd2e-4ed2-adfa-8ac0ca34acf0",
+      "username": "opiew",
+      "emailAddress": "OpieW@soa.com",
+      "firstName": "Opie",
+      "lastName": "Winston"
+    },
+    {
+      "id": "3156ff56-d1aa-4392-94b3-296c2ed379a6",
+      "username": "claym",
+      "emailAddress": "ClayM@soa.com",
+      "firstName": "Clay",
+      "lastName": "Morrow"
+    },
+    {
+      "id": "b03fef90-e8c5-4620-8273-70947c9095c0",
+      "username": "jessiep",
+      "emailAddress": "JessieP@bbad.com",
+      "firstName": "Jessie",
+      "lastName": "Pinkman"
+    },
+    {
+      "id": "b03fef90-e8c5-4620-8273-296c2ed379a6",
+      "username": "walterw",
+      "emailAddress": "WalterW@bbad.com",
+      "firstName": "Walter",
+      "lastName": "White"
+    },
+    {
+      "id": "b1d9d5c8-c4ed-422b-b987-245fa2658408",
+      "username": "jrd",
+      "emailAddress": "jrd@soa.com",
+      "firstName": "JR",
+      "lastName": "Dims"
+    },
+    {
+      "id": "aa03313a-5b31-4558-a714-a5b695cd043e",
+      "username": "jrdim",
+      "emailAddress": "jrdim@soa.com",
+      "firstName": "JR",
+      "lastName": "Dimaandal"
+    }
+  ],
+  "undefined": []
+}

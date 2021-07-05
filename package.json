@@ -1,0 +1,27 @@
+{
+  "name": "nodefinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "email-validator": "^2.0.4",
+    "express": "^4.17.1",
+    "lowdb": "^1.0.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrdimaandal/NodeFinal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrdimaandal/NodeFinal/issues"
+  },
+  "homepage": "https://github.com/jrdimaandal/NodeFinal#readme"
+}

@@ -1,0 +1,6 @@
+//Test root
+GET http://localhost:5000
+
+//GET Users
+GET http://localhost:5000/users
+
